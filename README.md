@@ -6,3 +6,6 @@ To run inference on an IP camera, Setup your camera url in 'mylib/config.py':
 url = ''
 Then run with the command:
 python run.py
+
+# Demo link for the project
+https://www.youtube.com/watch?v=nuSmI3sv5t8
